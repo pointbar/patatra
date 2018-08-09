@@ -4,7 +4,7 @@
 * Pomme
 
 
-Truc. 
+Truc.  
 Patate. 
 
 - [ ] Truc
