@@ -9,4 +9,4 @@ Patate.
 
 - [ ] Truc
 
-![](./wushu.png)
+![](https://raw.githubusercontent.com/pointbar/patatra/master/wushu.png)
