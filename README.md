@@ -2,6 +2,7 @@
 
 * Liste
 * Pomme
+* Poire
 
 
 Trucs.  
