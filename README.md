@@ -8,3 +8,5 @@ Truc.
 Patate. 
 
 - [ ] Truc
+
+![](./wushu.png)
